@@ -21,7 +21,7 @@
         style="@style/HeaderText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Full description of the product goes here."
+        android:text=""
         android:layout_marginTop="8dp" />
 
     <TextView
