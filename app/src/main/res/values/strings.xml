@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment1 // Pets products shop</string>
+    <string name="search_text">Search for a product</string>
+    <string name="searchButton">Search</string>
+    <string name="home_delivery">Home Delivery</string>
+    <string name="view_cart">View Cart</string>
+    <string name="search_logo">Search Logo</string>
+    <string name="your_cart">Your Cart</string>
+    <string name="total_0_00">Total: $0.00</string>
+    <string name="checkout">Checkout</string>
+
+    <string-array name="product_categories">
+        <item>All</item>
+        <item>Food</item>
+        <item>Toys</item>
+        <item>Accessories</item>
+        <item>Clothing</item>
+    </string-array>
+
+</resources>
